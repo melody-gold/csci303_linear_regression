@@ -38,10 +38,9 @@ The project applies Linear Regression to analyze and predict bike rentals using 
   git clone https://github.com/username/csci303_linear_regression.git
   cd csci303_linear_regression
   ```
-2. Download the dataset and save it as `creditcard.csv` in the project directory.
-3. Open the `Project - Linear Reg.ipynb` file.
-4. Follow the steps outlined and run the corresponding scripts to build the model.
-6. Outputs: Model accuracy and confusion matrix.
+2. Open the `Project - Linear Reg.ipynb` file.
+3. Follow the steps outlined and run the corresponding scripts to build the model.
+4. Outputs: Model accuracy and confusion matrix.
 
 ## Acknowledgements
 This project was developed as part of CSCI303 - Data Science at the Colorado School of Mines. Special thanks to Professor Morgan Cox and Dr. Wendy Fisher for guidance and course resources and materials.
