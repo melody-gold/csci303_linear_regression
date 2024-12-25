@@ -40,7 +40,7 @@ The project applies Linear Regression to analyze and predict bike rentals using 
   ```
 2. Open the `Project - Linear Reg.ipynb` file.
 3. Follow the steps outlined and run the corresponding scripts to build the model.
-4. Outputs: Model accuracy and confusion matrix.
+4. Outputs: Visualizations and MAE, MSE, RMSE, and R-squared.
 
 ## Acknowledgements
 This project was developed as part of CSCI303 - Data Science at the Colorado School of Mines. Special thanks to Professor Morgan Cox and Dr. Wendy Fisher for guidance and course resources and materials.
